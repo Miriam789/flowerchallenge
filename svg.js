@@ -5599,4 +5599,4 @@ if (typeof window.CustomEvent !== 'function') {
 
 return SVG
 
-}));
+}));
